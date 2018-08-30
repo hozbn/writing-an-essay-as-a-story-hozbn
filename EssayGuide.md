@@ -22,6 +22,9 @@ exposition (originally called introduction), rising action (rise),
 climax, falling action (return or fall), and dénouement/resolution/revelation/catastrophe.
 
 ## Introduction
+Párrafo 1.
+
+Párrafo 2
 
 Considering the beamer presentation of Lecture 1, remember that introduction section
 must contain:
@@ -32,11 +35,18 @@ must contain:
 - Your introduction should consist of a guide to the essay giving the reader a clear idea of what will follow.
 
 ## Body
+
+Párrafo 3.
+
+Párrafo 4.
+
 The body of the essay will take each of previous main points and develop them with **examples and illustrations**, using clearly defined paragraphs. This is where you will need to think about the structure of your essay and make sure you follow a clear path through to your conclusion.
 
 Also you can try reading this guide to help yourself to start your essay-Story [^1].
 
 ## Conclusion
+
+Mis conclusiones
 
 ## References
 
